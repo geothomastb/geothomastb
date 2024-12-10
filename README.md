@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
-Creative AI
+## Creative AI
 
 
 # 💻 Tech Stack:
